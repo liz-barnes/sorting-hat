@@ -1,4 +1,4 @@
-# Hogwart Sorting Hat
+# Hogwart's Sorting Hat
 
 ## User experience
 Have you always wondered what Hogwart's house you would be assigned to? The wait is over. Click "Let's get sorting!", enter your name and click "Show me my house!" to find your fate.
