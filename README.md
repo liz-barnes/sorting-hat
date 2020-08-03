@@ -1,4 +1,5 @@
 # Hogwart's Sorting Hat
+https://hoggywarts-sorting-hat.netlify.app/
 
 ## User experience
 Have you always wondered which Hogwart's house you would be assigned to? The wait is over. Click "Let's get sorting!", enter your name and click "Reveal my house!" to reveal your fate.
