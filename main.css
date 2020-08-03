@@ -1,5 +1,9 @@
-.content-container {
-    display: flex;
-    flex-direction: column;
-    align-content: center;
+.jumbotron {
+    padding-left: 75px;
+}
+
+#houseCards {
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
 }
